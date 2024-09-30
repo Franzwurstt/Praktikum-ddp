@@ -7,10 +7,16 @@ penjelasan
 1. baris pertama
 def login():
 Mendefinisikan fungsi bernama login.
+
 2.baris 2-3
 username_betul = 'Prakasa Wira Mukti'
 nim_betul = '2409116054'
 Menyimpan username dan NIM yang benar dalam variabel username_betul dan nim_betul.
+
+3.baris 4
+ while True:
+ Memulai loop tak terbatas untuk meminta input dari pengguna.
+
 
 
 
