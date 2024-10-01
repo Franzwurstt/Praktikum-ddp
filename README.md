@@ -1,8 +1,7 @@
 # Praktikum-ddp
 Prakasa Wira Mukti nim= 2409116054 
-![image](https://github.com/user-attachments/assets/f538ad68-81a6-4c10-b288-abf43b6eab23)
 
-
+![image](https://github.com/user-attachments/assets/e3698154-b5a4-4a0c-9787-e39a2455c7cd)
 
 penjelasan
 1.
