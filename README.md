@@ -123,28 +123,27 @@ print("Input tidak valid. Silakan masukkan angka yang benar.")
 Jika terjadi kesalahan konversi (misalnya, input bukan angka), mencetak pesan kesalahan dan kembali ke awal loop.
 
 
-Fungsi Login:
+Login:
 
-Ketika fungsi login() dipanggil, pengguna diminta untuk memasukkan username dan NIM.
-Jika input username dan NIM sesuai dengan yang telah ditentukan (username_betul dan nim_betul), maka program mencetak pesan selamat datang dan keluar dari loop.
-Jika input salah, program akan meminta pengguna untuk mencoba lagi dengan mencetak pesan kesalahan.
+Pengguna diminta untuk memasukkan username dan NIM.
+Jika keduanya benar, muncul pesan selamat datang.
+Jika salah, pengguna diberi tahu dan diminta untuk mencoba lagi.
 
-Input Harga dan Jumlah Pembelian:
+Input Harga dan Jumlah:
 
-Setelah login berhasil program akan meminta pengguna untuk memasukkan harga bakso dan jumlah pembelian.
-Keduanya harus berupa angka; jika pengguna memasukkan nilai yang tidak valid (misalnya huruf atau simbol), program akan menangkap exception ValueError dan menampilkan pesan "Input tidak valid. Silakan masukkan angka yang benar."
+Setelah login, pengguna memasukkan harga bakso dan jumlah yang ingin dibeli.
+Jika input tidak valid (misalnya huruf), program akan memberi tahu pengguna.
 
 Menghitung Total dan Diskon:
 
-Program akan menghitung total harga berdasarkan harga per unit dan jumlah pembelian.
-Jika total harga mencapai atau melebihi Rp 250.000, pengguna mendapatkan diskon 25%.
-Program mencetak informasi mengenai diskon (jika ada) dan total harga setelah diskon.
-Jika tidak ada diskon, program mencetak total harga yang harus dibayar.
+Program menghitung total harga.
+Jika total mencapai Rp 250.000 atau lebih, pengguna mendapatkan diskon 25%.
+Program menampilkan total harga setelah diskon (jika ada) atau total harga biasa.
 
-Pertanyaan untuk Pembelian Selanjutnya:
-Setelah menghitung dan mencetak total harga, pengguna ditanya apakah ingin melakukan pembelian lagi.
-Jika pengguna menjawab "ya", program akan mengulangi proses input harga dan jumlah.
-Jika pengguna menjawab selain "ya", program akan berhenti.
+Tanya Pembelian Lagi:
+
+Setelah selesai, pengguna ditanya apakah ingin membeli lagi.
+Jika menjawab "ya", proses ulang dari input harga; jika tidak, program berhenti.
 
 contoh output
 Jika pengguna memasukkan username dan NIM yang benar, mereka akan melihat:
