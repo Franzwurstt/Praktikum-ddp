@@ -1,6 +1,9 @@
 # Praktikum-ddp
-Prakasa Wira Mukti nim= 2409116054 
 
+Program menghitung total harga barang berdasarkan dan jumlah pembelian
+Prakasa Wira Mukti | 2409116054 | Sistem Informasi kelas B
+
+FLOWCHART
 ![image](https://github.com/user-attachments/assets/e3698154-b5a4-4a0c-9787-e39a2455c7cd)
 
 penjelasan
@@ -117,7 +120,7 @@ except ValueError:
 print("Input tidak valid. Silakan masukkan angka yang benar.")
 Jika terjadi kesalahan konversi (misalnya, input bukan angka), mencetak pesan kesalahan dan kembali ke awal loop.
 
-
+HASIL 
 <img width="577" alt="Screenshot 2024-09-30 214203" src="https://github.com/user-attachments/assets/b6bc278d-b2e3-4857-9e6b-a717c42a7a2f">
     
 
