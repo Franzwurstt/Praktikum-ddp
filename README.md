@@ -4,7 +4,7 @@ Program menghitung total harga barang berdasarkan dan jumlah pembelian
 Prakasa Wira Mukti | 2409116054 | Sistem Informasi kelas B
 
 FLOWCHART
-![image](https://github.com/user-attachments/assets/e3698154-b5a4-4a0c-9787-e39a2455c7cd)
+![image](https://github.com/user-attachments/assets/cb254066-4b2d-4d2f-bb69-52dc96007eb3)
 
 penjelasan
 1.
