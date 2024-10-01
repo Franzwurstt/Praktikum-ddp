@@ -167,6 +167,6 @@ Total harga Bakso untuk anda sekarang= 375000.0
 
 
 BUKTI HASIL 
-<img width="577" alt="Screenshot 2024-09-30 214203" src="https://github.com/user-attachments/assets/b6bc278d-b2e3-4857-9e6b-a717c42a7a2f">
-    
+<img width="364" alt="Screenshot 2024-10-01 104152" src="https://github.com/user-attachments/assets/e041e125-8fb6-4b3f-bdeb-22f8231f8b3a">
+
 
